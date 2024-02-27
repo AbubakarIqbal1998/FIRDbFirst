@@ -1,0 +1,6 @@
+@FIR.APIGateway_HostAddress = http://localhost:5104
+
+GET {{FIR.APIGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
