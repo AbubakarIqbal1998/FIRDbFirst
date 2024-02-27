@@ -1,0 +1,17 @@
+E:\Self Practice\FIRDBFirst\Services\bin\Debug\net8.0\Services.deps.json
+E:\Self Practice\FIRDBFirst\Services\bin\Debug\net8.0\Services.runtimeconfig.json
+E:\Self Practice\FIRDBFirst\Services\bin\Debug\net8.0\Services.dll
+E:\Self Practice\FIRDBFirst\Services\bin\Debug\net8.0\Services.pdb
+E:\Self Practice\FIRDBFirst\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+E:\Self Practice\FIRDBFirst\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Self Practice\FIRDBFirst\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+E:\Self Practice\FIRDBFirst\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+E:\Self Practice\FIRDBFirst\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+E:\Self Practice\FIRDBFirst\Services\obj\Debug\net8.0\Services.dll
+E:\Self Practice\FIRDBFirst\Services\obj\Debug\net8.0\refint\Services.dll
+E:\Self Practice\FIRDBFirst\Services\obj\Debug\net8.0\Services.pdb
+E:\Self Practice\FIRDBFirst\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
+E:\Self Practice\FIRDBFirst\Services\obj\Debug\net8.0\ref\Services.dll
+E:\Self Practice\FIRDBFirst\Services\bin\Debug\net8.0\Services.Shared.dll
+E:\Self Practice\FIRDBFirst\Services\bin\Debug\net8.0\Services.Shared.pdb
+E:\Self Practice\FIRDBFirst\Services\obj\Debug\net8.0\Services.csproj.CopyComplete

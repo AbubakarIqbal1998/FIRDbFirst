@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Services.Shared\Services.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Feature\Designations\Interface\" />
+    <Folder Include="Feature\Designations\Repository\" />
+    <Folder Include="Feature\Districts\Interface\" />
+    <Folder Include="Feature\Districts\Repository\" />
+    <Folder Include="Feature\Firs\Interface\" />
+    <Folder Include="Feature\Firs\Repository\" />
+    <Folder Include="Feature\Messages\Interface\" />
+    <Folder Include="Feature\Messages\Repository\" />
+    <Folder Include="Feature\PoliceStations\Interface\" />
+    <Folder Include="Feature\PoliceStations\Repository\" />
+    <Folder Include="Feature\Provinces\Interface\" />
+    <Folder Include="Feature\Provinces\Repository\" />
+    <Folder Include="Feature\PublicServices\Interface\" />
+    <Folder Include="Feature\PublicServices\Repository\" />
+    <Folder Include="Feature\Sections\Interface\" />
+    <Folder Include="Feature\Sections\Repository\" />
+    <Folder Include="Feature\Units\Interface\" />
+    <Folder Include="Feature\Units\Repository\" />
+  </ItemGroup>
+
+</Project>
